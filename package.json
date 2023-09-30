@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "nodemon": "^3.0.1",
+    "pg": "^8.11.3"
+  },
+  "name": "hw8",
+  "version": "1.0.0",
+  "main": "queries.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon queries.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
